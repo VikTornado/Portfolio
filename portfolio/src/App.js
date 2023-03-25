@@ -3,6 +3,7 @@ import SideNav from "./Components/SideNav";
 import Main from "./Components/Main";
 import Work from "./Components/Work";
 import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
 
 function App(props) {
     return (
@@ -11,6 +12,7 @@ function App(props) {
             <Main/>
             <Work data={props.data}/>
             <Projects state={props.state} />
+            <Contact/>
         </div>
     );
 }

@@ -2,42 +2,42 @@ export const state = [
     {
         "id": "985933",
         "title": "MyProject",
-        "image": "https://wallpapers.com/images/featured/lion-cub-t88gtg2q39uebgtm.jpg",
+        "image": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_960_720.jpg",
         "releaseDate": "11.08.2022",
         "__typename": "Movie"
     },
     {
         "id": "985939",
         "title": "Fall",
-        "image": "https://image.tmdb.org/t/p/w300/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+        "image": "https://media.istockphoto.com/id/1311186167/photo/sea-at-night-and-beautiful-milky-way.jpg?s=612x612&w=0&k=20&c=aQflFyhzTL0sIEu5XUhy2G1b5w7towJ0PebAQnX4Tf4=",
         "releaseDate": "11.08.2022",
         "__typename": "Movie"
     },
     {
         "id": "532639",
         "title": "Pinocchio",
-        "image": "https://image.tmdb.org/t/p/w300/h32gl4a3QxQWNiNaR4Fc1uvLBkV.jpg",
+        "image": "https://media.istockphoto.com/id/1368308616/photo/beautiful-aurora-universe-with-milky-way-and-meditating-woman-in-yoga-pose_3d-rendering-image.jpg?s=612x612&w=0&k=20&c=YI16LP2GqpNamoWdzeoSUifcZs7Xhl7XyILjd5onZCk=",
         "releaseDate": "07.09.2022",
         "__typename": "Movie"
     },
     {
         "id": "760741",
         "title": "Beast",
-        "image": "https://image.tmdb.org/t/p/w300/iRV0IB5xQeOymuGGUBarTecQVAl.jpg",
+        "image": "https://media.istockphoto.com/id/510853284/photo/planet-earth-with-a-spectacular-sunset.jpg?s=612x612&w=0&k=20&c=hLhRygIwTsPutC0yD0db6c3429oG9ghNNksvcfrpU3E=",
         "releaseDate": "11.08.2022",
         "__typename": "Movie"
     },
     // {
     //     "id": "760161",
     //     "title": "Orphan: First Kill",
-    //     "image": "https://image.tmdb.org/t/p/w300/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg",
+    //     "image": "https://cdn.fansshare.com/photograph/monicabellucci/monica-bellucci-hd-by-ockre-hzya-342224863.jpg",
     //     "releaseDate": "27.07.2022",
     //     "__typename": "Movie"
     // },
     // {
     //     "id": "629176",
     //     "title": "Samaritan",
-    //     "image": "https://image.tmdb.org/t/p/w300/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",
+    //     "image": "https://img-fotki.yandex.ru/get/9494/97833783.6eb/0_da41b_5fbadfc5_XXXL.jpg",
     //     "releaseDate": "25.08.2022",
     //     "__typename": "Movie"
     // },
